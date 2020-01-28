@@ -1,0 +1,23 @@
+body{
+    background-color: burlywood;
+}
+h1 {
+    color: purple;
+    margin: 2px;
+    border: red dotted;
+    padding: 10px;
+}
+div {
+    margin: 10px solid gray;
+    border: double green;
+    padding: 10px;
+}
+.head1{
+    color: red;
+}
+.head2 {
+    background-color: reddish blue;
+}
+#myhd {
+    color: teal;
+}
