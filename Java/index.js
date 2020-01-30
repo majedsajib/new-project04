@@ -1,1 +1,1 @@
-alert ("Please Read")
+alert ("Please Read");
